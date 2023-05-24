@@ -8,7 +8,7 @@ while True:
     while True:
         print("Ingrese nota 2")
         n2 = int(input("> "))
-        if n2 < 1 or n2 > 7:
+        if n2 < 1 or N3 > 7:
             continue
         while True:
             print("Ingrese nota 3")
