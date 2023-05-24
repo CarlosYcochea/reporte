@@ -2,7 +2,7 @@
 #==2 ejercicio  
 while True:
     print("Ingrese nota 1")
-    n1 = int(input("> "))
+    n1 = int(input("> "))ar
     if n1 < 1 or n1 > 7:
         continue
     while True:
